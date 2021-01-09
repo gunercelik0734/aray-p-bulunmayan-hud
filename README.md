@@ -1,1 +1,0 @@
-# aray-p-bulunmayan-hud
